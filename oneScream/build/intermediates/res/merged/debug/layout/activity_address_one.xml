@@ -1,0 +1,524 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/frm_buttons"
+        android:background="@android:color/white"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="10dp"
+            android:background="@color/background_color"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/rl_main"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/sky_height_reg">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/bg_galaxy" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/frm_sub_header"
+                    android:layout_marginBottom="20dp"
+                    android:gravity="bottom"
+                    android:orientation="vertical"
+                    android:paddingLeft="30dp"
+                    android:paddingRight="30dp">
+
+                    <TextView
+                        android:id="@+id/title"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/wifis_title"
+                        android:textColor="@android:color/white"
+                        android:textSize="@dimen/faq_title"
+                        android:textStyle="normal" />
+
+                    <ImageView
+                        android:layout_width="30dp"
+                        android:layout_height="2dp"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/xml_shape_rect_yellow" />
+
+                    <TextView
+                        android:id="@+id/txt1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="@string/wifis_text_new1"
+                        android:textColor="@android:color/white"
+                        android:textSize="@dimen/faq_content"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="20dp"
+                    android:layout_alignParentBottom="true"
+                    android:background="@drawable/bg_shadow" />
+
+                <RelativeLayout
+                    android:id="@+id/frm_sub_header"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentTop="true">
+
+
+                    <ImageView
+                        android:id="@+id/labelll"
+                        android:layout_width="wrap_content"
+                        android:layout_height="24dp"
+                        android:layout_centerInParent="true"
+                        android:background="@drawable/one_screem" />
+                </RelativeLayout>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@android:color/white"
+                android:gravity="center"
+                android:orientation="vertical"
+                android:paddingBottom="10dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="@dimen/your_address_mt"
+                    android:gravity="center"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        android:id="@+id/iv_page1"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@drawable/ic_page_ind_non" />
+
+                    <ImageView
+                        android:id="@+id/iv_page2"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:background="@drawable/ic_page_ind_non" />
+
+                    <ImageView
+                        android:id="@+id/iv_page3"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:background="@drawable/ic_page_ind_non" />
+
+                    <ImageView
+                        android:id="@+id/iv_page4"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:background="@drawable/ic_page_ind_non" />
+
+                    <ImageView
+                        android:id="@+id/iv_page5"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:background="@drawable/ic_page_ind_sel" />
+
+                    <ImageView
+                        android:id="@+id/iv_page6"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:background="@drawable/ic_page_ind_non" />
+                </LinearLayout>
+
+                <!--        <ScrollView
+                           android:id="@+id/lv_wifi_items"
+                           android:layout_width="match_parent"
+                           android:layout_height="0dp"
+                           android:layout_weight="1"
+                           android:divider="@android:color/transparent"
+                           android:isScrollContainer="false"
+                           android:paddingLeft="30dp"
+                           android:paddingRight="30dp" >
+            -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:paddingLeft="40dp"
+                    android:paddingRight="40dp">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="10dp"
+                        android:text="Addresses"
+                        android:textSize="12dp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="5dp"
+                        android:orientation="vertical">
+
+                        <FrameLayout
+                            android:id="@+id/fm_btn_home"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_weight="1"
+                            android:background="@drawable/xml_rect_boundry">
+
+                            <LinearLayout
+                                android:id="@+id/layout_txt"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical"
+                                android:paddingLeft="10dp"
+                                android:paddingTop="5dp"
+                                android:visibility="gone">
+
+                                <TextView
+                                    android:id="@+id/a_adre"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingTop="1dp"
+                                    android:text="Home"
+                                    android:textColor="@color/text_default_color"
+                                    android:textSize="@dimen/txt_small" />
+
+                                <TextView
+                                    android:id="@+id/a_adresa"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingTop="1dp"
+                                    android:text="kentn park garden"
+                                    android:textColor="@color/text_default_color"
+                                    android:textSize="@dimen/txt_small" />
+
+                                <TextView
+                                    android:id="@+id/a_adresb"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingTop="1dp"
+                                    android:text="Flat 5,golden house"
+                                    android:textColor="@color/text_default_color"
+                                    android:textSize="@dimen/txt_small" />
+
+                                <TextView
+                                    android:id="@+id/a_adresc"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingTop="1dp"
+                                    android:text="London,12202022"
+                                    android:textColor="@color/text_default_color"
+                                    android:textSize="@dimen/txt_small" />
+
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_marginTop="5dp"
+                                    android:orientation="horizontal">
+
+                                    <Button
+                                        android:id="@+id/a_edit"
+                                        android:layout_width="0dp"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginBottom="5dp"
+                                        android:layout_weight="1.0"
+                                        android:background="#ebebeb"
+                                        android:paddingBottom="7dp"
+                                        android:paddingTop="7dp"
+                                        android:text="Edit"
+                                        android:textSize="@dimen/btn_txt_small" />
+
+                                    <Button
+                                        android:id="@+id/a_dlt"
+                                        android:layout_width="0dp"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginBottom="5dp"
+                                        android:layout_marginLeft="10dp"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_weight="1.0"
+                                        android:background="#ffffff"
+                                        android:paddingBottom="7dp"
+
+                                        android:paddingTop="7dp"
+                                        android:textSize="@dimen/btn_txt_small" />
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <TextView
+                                android:id="@+id/add_home"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_gravity="center"
+                                android:background="@drawable/xml_button_trans_rect_bg_selector"
+                                android:duplicateParentState="true"
+                                android:gravity="center_vertical|left"
+                                android:paddingBottom="20dp"
+                                android:paddingLeft="15dp"
+                                android:paddingRight="10dp"
+                                android:paddingTop="20dp"
+                                android:text="@string/yourdetails_Add_home"
+
+                                android:textColor="#000000"
+                                android:textSize="@dimen/button_font_size" />
+                        </FrameLayout>
+
+                        <FrameLayout
+                            android:id="@+id/fm_btn_work"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_weight="1"
+                            android:background="@drawable/xml_rect_boundry">
+
+                            <LinearLayout
+                                android:id="@+id/layout_txt1"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical"
+                                android:paddingLeft="10dp"
+                                android:paddingTop="5dp"
+                                android:visibility="gone">
+
+                                <TextView
+                                    android:id="@+id/b_adre"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingTop="1dp"
+                                    android:text="Work"
+                                    android:textColor="@color/text_default_color"
+                                    android:textSize="@dimen/txt_small" />
+
+                                <TextView
+                                    android:id="@+id/b_adresa"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingTop="1dp"
+                                    android:text="kentn park garden"
+                                    android:textColor="@color/text_default_color"
+                                    android:textSize="@dimen/txt_small" />
+
+                                <TextView
+                                    android:id="@+id/b_adresb"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingTop="1dp"
+                                    android:text="Flat 5,golden house"
+                                    android:textColor="@color/text_default_color"
+                                    android:textSize="@dimen/txt_small" />
+
+                                <TextView
+                                    android:id="@+id/b_adresc"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingTop="1dp"
+                                    android:text="London,12202022"
+                                    android:textColor="@color/text_default_color"
+                                    android:textSize="@dimen/txt_small" />
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_marginTop="5dp"
+                                    android:orientation="horizontal">
+
+                                    <Button
+                                        android:id="@+id/b_edit"
+                                        android:layout_width="0dp"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginBottom="5dp"
+                                        android:layout_weight="1.0"
+                                        android:background="#ebebeb"
+                                        android:paddingBottom="7dp"
+                                        android:paddingTop="7dp"
+                                        android:text="Edit"
+                                        android:textSize="@dimen/btn_txt_small" />
+
+                                    <Button
+                                        android:id="@+id/b_dlt"
+                                        android:layout_width="0dp"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginBottom="5dp"
+                                        android:layout_marginLeft="10dp"
+
+                                        android:layout_marginRight="5dp"
+                                        android:layout_weight="1.0"
+                                        android:background="#ebebeb"
+                                        android:paddingBottom="7dp"
+                                        android:paddingTop="7dp"
+                                        android:text="Delete"
+                                        android:textSize="@dimen/btn_txt_small" />
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <TextView
+                                android:id="@+id/add_work"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_gravity="center"
+                                android:background="@drawable/xml_button_trans_rect_bg_selector"
+                                android:duplicateParentState="true"
+                                android:gravity="center_vertical|left"
+                                android:paddingBottom="20dp"
+                                android:paddingLeft="15dp"
+                                android:paddingRight="10dp"
+                                android:paddingTop="20dp"
+                                android:text="@string/yourdetails_Add_work"
+                                android:textColor="#000000"
+                                android:textSize="@dimen/button_font_size" />
+                        </FrameLayout>
+
+                        <FrameLayout
+                            android:id="@+id/fm_btn_frequent"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_weight="1"
+                            android:background="@drawable/xml_rect_boundry">
+
+                            <LinearLayout
+                                android:id="@+id/layout_txt2"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:orientation="vertical"
+                                android:paddingLeft="10dp"
+                                android:paddingTop="5dp"
+                                android:visibility="gone">
+
+                                <TextView
+                                    android:id="@+id/c_adre"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingTop="1dp"
+                                    android:text="Other Frequented Address"
+                                    android:textColor="@color/text_default_color"
+                                    android:textSize="@dimen/txt_small" />
+
+                                <TextView
+                                    android:id="@+id/c_adresa"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingTop="1dp"
+                                    android:text="kentn park garden"
+                                    android:textColor="@color/text_default_color"
+                                    android:textSize="@dimen/txt_small" />
+
+                                <TextView
+                                    android:id="@+id/c_adresb"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingTop="1dp"
+                                    android:text="Flat 5,golden house"
+                                    android:textColor="@color/text_default_color"
+                                    android:textSize="@dimen/txt_small" />
+
+                                <TextView
+                                    android:id="@+id/c_adresc"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:paddingTop="1dp"
+                                    android:text="London,12202022"
+                                    android:textColor="@color/text_default_color"
+                                    android:textSize="@dimen/txt_small" />
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_marginTop="5dp"
+                                    android:orientation="horizontal">
+
+                                    <Button
+                                        android:id="@+id/c_edit"
+                                        android:layout_width="0dp"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginBottom="5dp"
+                                        android:layout_weight="1.0"
+                                        android:background="#ebebeb"
+                                        android:paddingBottom="7dp"
+                                        android:paddingTop="7dp"
+                                        android:text="Edit"
+                                        android:textSize="@dimen/btn_txt_small" />
+
+                                    <Button
+                                        android:id="@+id/c_dlt"
+                                        android:layout_width="0dp"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginBottom="5dp"
+                                        android:layout_marginLeft="10dp"
+                                        android:layout_marginRight="5dp"
+                                        android:layout_weight="1.0"
+                                        android:background="#ebebeb"
+                                        android:paddingBottom="7dp"
+                                        android:paddingTop="7dp"
+                                        android:text="Delete"
+                                        android:textSize="@dimen/btn_txt_small" />
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <TextView
+                                android:id="@+id/add_frequent"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_gravity="center"
+                                android:background="@drawable/xml_button_trans_rect_bg_selector"
+                                android:duplicateParentState="true"
+                                android:gravity="center_vertical|left"
+                                android:paddingBottom="20dp"
+                                android:paddingLeft="15dp"
+                                android:paddingRight="10dp"
+                                android:paddingTop="20dp"
+                                android:text="@string/yourdetails_Add_frequent"
+                                android:textColor="#000000"
+                                android:textSize="@dimen/button_font_size" />
+                        </FrameLayout>
+                    </LinearLayout>
+
+                    <FrameLayout
+                        android:id="@+id/frm_btn_save"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="20dp"
+                        android:background="#e3bc4e"
+                        android:visibility="gone">
+
+                        <TextView
+                            android:id="@+id/tv_btn_save"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@drawable/btn_save_work"
+                            android:duplicateParentState="true"
+                            android:gravity="center"
+                            android:paddingBottom="2dp"
+                            android:text="Continue"
+                            android:textColor="@android:color/white"
+                            android:textSize="@dimen/button_font_size" />
+                    </FrameLayout>
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</RelativeLayout>

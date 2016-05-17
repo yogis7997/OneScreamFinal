@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="addresses_sv_mt">20dp</dimen>
+    <dimen name="btn_txt_small">13dp</dimen>
+    <dimen name="circle_size">300dp</dimen>
+    <dimen name="detail_name_mt">10dp</dimen>
+    <dimen name="detail_pi_mrgntop">15dp</dimen>
+    <dimen name="detail_pi_ts">16sp</dimen>
+    <dimen name="detail_protection_plan_mt">15dp</dimen>
+    <dimen name="detail_topbarheight">60dp</dimen>
+    <dimen name="detected_counter_size">141sp</dimen>
+    <dimen name="faq_content">15sp</dimen>
+    <dimen name="faq_header">16sp</dimen>
+    <dimen name="faq_title">18sp</dimen>
+    <dimen name="indicator_margin_bottom">20dp</dimen>
+    <dimen name="indicator_margin_top">20dp</dimen>
+    <dimen name="lay2_home_mrgntop">35dp</dimen>
+    <dimen name="lay_home_mrgntop">50dp</dimen>
+    <dimen name="line_mt">20dp</dimen>
+    <dimen name="logo_size">20dp</dimen>
+    <dimen name="pp_mt">30dp</dimen>
+    <dimen name="ready_ed_mgntop">12dp</dimen>
+    <dimen name="ready_txt1_size">9sp</dimen>
+    <dimen name="ready_txt2_size">9sp</dimen>
+    <dimen name="sidebar_txtsize">17sp</dimen>
+    <dimen name="sky_height">240dp</dimen>
+    <dimen name="sky_height_reg">230dp</dimen>
+    <dimen name="tap">10sp</dimen>
+    <dimen name="textsize">13sp</dimen>
+    <dimen name="tp_mt">12dp</dimen>
+    <dimen name="txt_content">16sp</dimen>
+    <dimen name="txt_home_title">23sp</dimen>
+    <dimen name="txt_small">11sp</dimen>
+    <dimen name="your_address_mt">33dp</dimen>
+</resources>

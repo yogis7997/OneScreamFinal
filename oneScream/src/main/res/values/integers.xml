@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="text_size">12</integer>
+    <integer name="rl_main_height">280</integer>
+    <integer name="margin_top">5</integer>
+    <integer name="text_size_short">9</integer>
+    <integer name="text_size_medium">9</integer>
+    <integer name="text_size_large">14</integer>
+    <integer name="sidebar_text_size">13</integer>
+</resources>

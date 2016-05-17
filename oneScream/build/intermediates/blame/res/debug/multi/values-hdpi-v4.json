@@ -1,0 +1,636 @@
+[
+    {
+        "outputFile": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1369,
+                        "endColumn": 46,
+                        "endOffset": 1411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 44,
+                    "endOffset": 142
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 44,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 147,
+                    "endColumn": 43,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 918,
+                        "endColumn": 43,
+                        "endOffset": 957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endColumn": 45,
+                    "endOffset": 232
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1109,
+                        "endColumn": 45,
+                        "endOffset": 1150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 237,
+                    "endColumn": 48,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1060,
+                        "endColumn": 48,
+                        "endOffset": 1104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 43,
+                    "endOffset": 325
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1212,
+                        "endColumn": 43,
+                        "endOffset": 1251
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 330,
+                    "endColumn": 56,
+                    "endOffset": 382
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1155,
+                        "endColumn": 56,
+                        "endOffset": 1207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 387,
+                    "endColumn": 50,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1009,
+                        "endColumn": 50,
+                        "endOffset": 1055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 53,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 181,
+                        "endColumn": 53,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 42,
+                    "endOffset": 530
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 42,
+                        "endOffset": 135
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 535,
+                    "endColumn": 41,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 40,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 140,
+                        "endColumn": 40,
+                        "endOffset": 176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 54,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 54,
+                        "endOffset": 577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 51,
+                    "endOffset": 720
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 582,
+                        "endColumn": 51,
+                        "endOffset": 629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 725,
+                    "endColumn": 48,
+                    "endOffset": 769
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 869,
+                        "endColumn": 48,
+                        "endOffset": 913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 774,
+                    "endColumn": 47,
+                    "endOffset": 817
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 47,
+                        "endOffset": 864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 822,
+                    "endColumn": 38,
+                    "endOffset": 856
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1330,
+                        "endColumn": 38,
+                        "endOffset": 1364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 861,
+                    "endColumn": 40,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1463,
+                        "endColumn": 40,
+                        "endOffset": 1499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 36,
+                    "endOffset": 934
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1256,
+                        "endColumn": 36,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 939,
+                    "endColumn": 46,
+                    "endOffset": 981
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 634,
+                        "endColumn": 46,
+                        "endOffset": 676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 986,
+                    "endColumn": 46,
+                    "endOffset": 1028
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 681,
+                        "endColumn": 46,
+                        "endOffset": 723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1033,
+                    "endColumn": 46,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 728,
+                        "endColumn": 46,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 46,
+                    "endOffset": 1122
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 962,
+                        "endColumn": 46,
+                        "endOffset": 1004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1127,
+                    "endColumn": 42,
+                    "endOffset": 1165
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 42,
+                        "endOffset": 350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1170,
+                    "endColumn": 46,
+                    "endOffset": 1212
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 355,
+                        "endColumn": 46,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1217,
+                    "endColumn": 33,
+                    "endOffset": 1246
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 33,
+                        "endOffset": 264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1251,
+                    "endColumn": 39,
+                    "endOffset": 1286
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 39,
+                        "endOffset": 522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1291,
+                    "endColumn": 36,
+                    "endOffset": 1323
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1293,
+                        "endColumn": 36,
+                        "endOffset": 1325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1328,
+                    "endColumn": 42,
+                    "endOffset": 1366
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 269,
+                        "endColumn": 42,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1371,
+                    "endColumn": 45,
+                    "endOffset": 1412
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 775,
+                        "endColumn": 45,
+                        "endOffset": 816
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1417,
+                    "endColumn": 39,
+                    "endOffset": 1452
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 39,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1457,
+                    "endColumn": 46,
+                    "endOffset": 1499
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1416,
+                        "endColumn": 46,
+                        "endOffset": 1458
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1504,
+                    "endLine": 38,
+                    "endColumn": 13,
+                    "endOffset": 1776
+                },
+                "from": {
+                    "file": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 6,
+                        "endColumn": 13,
+                        "endOffset": 327
+                    }
+                }
+            }
+        ]
+    }
+]

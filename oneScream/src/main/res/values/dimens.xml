@@ -1,0 +1,37 @@
+<resources>
+
+    <!-- Font -->
+    <dimen name="button_font_size">11sp</dimen>
+    <dimen name="button_font_size_cancel">18sp</dimen>
+
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="button_height_extra">60dp</dimen>
+    <dimen name="button_height_cancel">75dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="textsize">13sp</dimen>
+    <dimen name="indicator_margin_bottom">20dp</dimen>
+    <dimen name="indicator_margin_top">20dp</dimen>
+    <dimen name="ready_ed_mgntop">12dp</dimen>
+    <dimen name="ready_txt1_size">10sp</dimen>
+    <dimen name="ready_txt2_size">9sp</dimen>
+    <dimen name="txt_home_title">23sp</dimen>
+    <dimen name="lay_home_mrgntop">30dp</dimen>
+    <dimen name="lay2_home_mrgntop">35dp</dimen>
+    <dimen name="circle_size">300dp</dimen>
+    <dimen name="sidebar_txtsize">18sp</dimen>
+    <dimen name="detail_topbarheight">60dp</dimen>
+    <dimen name="detail_pi_mrgntop">15dp</dimen>
+    <dimen name="detail_name_mt">10dp</dimen>
+    <dimen name="detail_protection_plan_mt">15dp</dimen>
+    <dimen name="detail_pi_ts">16sp</dimen>
+    <dimen name="pp_mt">30dp</dimen>
+    <dimen name="tp_mt">12dp</dimen>
+    <dimen name="line_mt">20dp</dimen>
+    <dimen name="addresses_sv_mt">20dp</dimen>
+    <dimen name="your_address_mt">33dp</dimen>
+    <dimen name="logo_size">20dp</dimen>
+    <dimen name="textsize_swipe">11sp</dimen>
+    <dimen name="small_textsize">11sp</dimen>
+</resources>
