@@ -1052,10 +1052,6 @@ public class HomeActivity extends Activity implements View.OnClickListener {
                 Notification notification = builder.getNotification();
                 notification.flags = Notification.FLAG_ONGOING_EVENT;
                 notiManager.notify(11111, notification);
-
-
-
-
         }catch (Exception e){
 
         }
