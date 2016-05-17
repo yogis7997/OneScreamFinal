@@ -36,12 +36,12 @@
         "source": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_dark.xml"
     },
     {
-        "merged": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
         "source": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",

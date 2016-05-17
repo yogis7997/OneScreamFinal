@@ -56,12 +56,12 @@
         "source": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/anim/fade_in.xml"
     },
     {
-        "merged": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/res/merged/debug/anim/left_out.xml",
-        "source": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/anim/left_out.xml"
-    },
-    {
         "merged": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/res/merged/debug/anim/from_bottom.xml",
         "source": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/anim/from_bottom.xml"
+    },
+    {
+        "merged": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/res/merged/debug/anim/left_out.xml",
+        "source": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/src/main/res/anim/left_out.xml"
     },
     {
         "merged": "/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",

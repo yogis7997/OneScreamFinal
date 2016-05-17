@@ -1,2 +1,0 @@
-CHANGED,/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/Users/seraphicinfosolutions/Documents/YogiData/Projects/Scream/One Scream (Android) 18th May/oneScream/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/onescream/HomeActivity$override.class
